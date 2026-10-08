@@ -1,6 +1,6 @@
 # CampusHub
 
-My first repository: a student portal for managing student-related information and campus activities.
+My first repository: a student portal for viewing student information, courses, and campus announcements.
 
 ## Run locally
 
