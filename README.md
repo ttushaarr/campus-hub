@@ -1,6 +1,6 @@
 # CampusHub
 
-A lightweight student portal for viewing student information, courses, and campus announcements.
+My first repository: a student portal for viewing student information, courses, and campus announcements.
 
 ## Run locally
 
@@ -16,4 +16,4 @@ Open `index.html` in a web browser. CampusHub is a static project and does not n
 
 ## Git workflow
 
-The dashboard work is on the `feature/dashboard` branch. Review and merge it through a pull request when it has been published to GitHub.
+The dashboard work is on the `feature/dashboard` branch. Review and merge it through a pull request.
